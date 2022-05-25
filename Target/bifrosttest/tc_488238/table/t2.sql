@@ -1,0 +1,3 @@
+create or replace TABLE BIFROSTTEST.TC_488238.T2 (
+	COLUMN1 NUMBER(38,19)
+);
